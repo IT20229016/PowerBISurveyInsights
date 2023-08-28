@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Survey Dataset Analysis</title>
-</head>
-<body>
+
 
 <h1>Survey Dataset Analysis</h1>
 
